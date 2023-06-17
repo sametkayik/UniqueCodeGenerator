@@ -19,9 +19,9 @@ The `codes.txt` file can be found in the directory: `UniqueCodeGenerator\UniqueC
 
 ### Outputs
 
-![image](https://github.com/sametkayik/UniqueCodeGenerator/assets/53970699/8402ff50-2a9c-4ea7-b66a-ca62c3d2c669)
+![codes](https://github.com/sametkayik/UniqueCodeGenerator/assets/53970699/91aac098-359a-4dc2-abc9-25c4d66ec125)
 
-![valid](https://github.com/sametkayik/UniqueCodeGenerator/assets/53970699/e97f9c45-b99d-4a18-a074-65354deed14b)
-![invalid](https://github.com/sametkayik/UniqueCodeGenerator/assets/53970699/cb13f724-d543-49dd-86a6-fc5740ce2789)
+![valid](https://github.com/sametkayik/UniqueCodeGenerator/assets/53970699/62af4b1a-4d35-4d8e-b22c-7731abc5f78e)
+![invalid](https://github.com/sametkayik/UniqueCodeGenerator/assets/53970699/4c2b721c-4ccc-4244-90eb-e4209d6010d4)
 
 
