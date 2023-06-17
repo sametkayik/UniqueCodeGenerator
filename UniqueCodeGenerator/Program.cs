@@ -17,6 +17,11 @@ namespace UniqueCodeGenerator
             List<string> codes = GenerateUniqueCodes(amountOfCode);
 
             WriteCodesToFile(codesPath, codes);
+            
+            foreach (string code in codes)
+            {
+                Console.WriteLine(code);
+            }
 
             Console.Write("Codes are generated and saved to file.\nCampaign is started!\nEnter a code:");
 
