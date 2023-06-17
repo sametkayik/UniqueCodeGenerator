@@ -1,0 +1,15 @@
+C:\Users\samet\source\repos\UniqueCodeGenerator\UniqueCodeGenerator\bin\Debug\net6.0\UniqueCodeGenerator.exe
+C:\Users\samet\source\repos\UniqueCodeGenerator\UniqueCodeGenerator\bin\Debug\net6.0\UniqueCodeGenerator.deps.json
+C:\Users\samet\source\repos\UniqueCodeGenerator\UniqueCodeGenerator\bin\Debug\net6.0\UniqueCodeGenerator.runtimeconfig.json
+C:\Users\samet\source\repos\UniqueCodeGenerator\UniqueCodeGenerator\bin\Debug\net6.0\UniqueCodeGenerator.dll
+C:\Users\samet\source\repos\UniqueCodeGenerator\UniqueCodeGenerator\bin\Debug\net6.0\UniqueCodeGenerator.pdb
+C:\Users\samet\source\repos\UniqueCodeGenerator\UniqueCodeGenerator\obj\Debug\net6.0\UniqueCodeGenerator.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\UniqueCodeGenerator\UniqueCodeGenerator\obj\Debug\net6.0\UniqueCodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\source\repos\UniqueCodeGenerator\UniqueCodeGenerator\obj\Debug\net6.0\UniqueCodeGenerator.AssemblyInfoInputs.cache
+C:\Users\samet\source\repos\UniqueCodeGenerator\UniqueCodeGenerator\obj\Debug\net6.0\UniqueCodeGenerator.AssemblyInfo.cs
+C:\Users\samet\source\repos\UniqueCodeGenerator\UniqueCodeGenerator\obj\Debug\net6.0\UniqueCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\UniqueCodeGenerator\UniqueCodeGenerator\obj\Debug\net6.0\UniqueCodeGenerator.dll
+C:\Users\samet\source\repos\UniqueCodeGenerator\UniqueCodeGenerator\obj\Debug\net6.0\refint\UniqueCodeGenerator.dll
+C:\Users\samet\source\repos\UniqueCodeGenerator\UniqueCodeGenerator\obj\Debug\net6.0\UniqueCodeGenerator.pdb
+C:\Users\samet\source\repos\UniqueCodeGenerator\UniqueCodeGenerator\obj\Debug\net6.0\UniqueCodeGenerator.genruntimeconfig.cache
+C:\Users\samet\source\repos\UniqueCodeGenerator\UniqueCodeGenerator\obj\Debug\net6.0\ref\UniqueCodeGenerator.dll
